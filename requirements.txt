@@ -1,0 +1,10 @@
+geopandas
+libpysal
+momepy
+osmnx
+pandas
+Clustergram
+matplotlib 
+bokeh
+contextily
+tqdm
