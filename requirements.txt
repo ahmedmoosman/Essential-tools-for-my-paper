@@ -8,3 +8,5 @@ matplotlib
 bokeh
 contextily
 tqdm
+tensorflow
+keras
